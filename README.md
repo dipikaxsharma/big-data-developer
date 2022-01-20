@@ -1,4 +1,4 @@
-# big-data-developer
+
 # Name: Dipika Sharma
 ## Current: 
 - Currently: Bachelor's in Computer Science (Senior) 
